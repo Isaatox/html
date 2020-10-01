@@ -15,4 +15,5 @@ html {
 
   h1 {
     color: red;
-      }
+    border: 5px solid salmon;
+}
