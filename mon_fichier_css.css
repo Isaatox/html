@@ -1,19 +1,60 @@
-html {
-    background-color: orange;
-    font-size: 20px;
-  }
-  
-  ul {
-    background: red;
-    padding: 10px;
-    border: 1px solid black;
-  }
-  
-  li {
-    margin-left: 20px;
-  }
+.time {
+  border: 0px;
+  vertical-align: top;
+  position: relative;
+  top: -13px;
+  font-weight: lighter;
+  text-align: right;
+}
 
-  h1 {
-    color: red;
-    border: 5px solid salmon;
+.yellow{
+  background-color:yellow
+}
+
+.blue{
+  background-color:#4CD0F3
+}
+
+.min5 {
+  height: 5px;
+}
+
+.min10 {
+  height: 10px;
+}
+
+.min15{
+  height: 15px;
+}
+
+.min20{
+  height: 20px;
+}
+
+.min25{
+  height: 25px;
+}
+
+.min30{
+  height: 30px;
+}
+
+.min35{
+  height: 35px;
+}
+
+.min40{
+  height: 40px;
+}
+
+.min45{
+  height: 45px;
+}
+
+.min50{
+  height: 50px;
+}
+
+.min55{
+  height: 55px;
 }
