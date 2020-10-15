@@ -3,12 +3,26 @@
   vertical-align: top;
   position: relative;
   top: -13px;
-  font-weight: lighter;
+  font-weight: bold ;
   text-align: right;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.style {
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
 }
 
 td {
   text-align: center;
+  width: 1%;
+
+}
+
+.border{
+  border: 0px;
 }
 
 .yellow{
