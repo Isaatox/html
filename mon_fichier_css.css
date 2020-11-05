@@ -19,9 +19,9 @@
 .center{
   text-transform: uppercase;
   text-align: center;
-  font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: bold;
-}
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  }
 
 td {
   text-align: center;
