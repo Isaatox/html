@@ -16,6 +16,13 @@
   font-weight: bold;
 }
 
+.center{
+  text-transform: uppercase;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+
 td {
   text-align: center;
   width: 1px;
@@ -26,7 +33,7 @@ td {
   border: 0px;
 }
 
-.grey{
+.white{
   background-color: grey;
 }
 
