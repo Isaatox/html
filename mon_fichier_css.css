@@ -8,6 +8,7 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
+
 .style {
   text-decoration: underline;
   text-transform: uppercase;
@@ -18,11 +19,15 @@
 td {
   text-align: center;
   width: 1px;
-
+  
 }
 
 .border{
   border: 0px;
+}
+
+.grey{
+  background-color: grey;
 }
 
 .yellow{
